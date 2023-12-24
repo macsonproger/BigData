@@ -9,5 +9,7 @@
 ![](https://github.com/macsonproger/BigData/blob/main/lr_4/лаб4/tests/philosophers.jpg)  
 
 Задание 3. Работа с клиентами и координатором  
-(пример работы координатора):       ![](https://github.com/macsonproger/BigData/blob/main/lr_4/лаб4/tests/coordinator.jpg)  
-(пример работы клиента):      ![](https://github.com/macsonproger/BigData/blob/main/lr_4/лаб4/tests/client.jpg) 
+(пример работы координатора):  
+![](https://github.com/macsonproger/BigData/blob/main/lr_4/лаб4/tests/coordinator.jpg)  
+(пример работы клиента):  
+![](https://github.com/macsonproger/BigData/blob/main/lr_4/лаб4/tests/client.jpg) 
